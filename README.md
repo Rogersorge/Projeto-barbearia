@@ -1,4 +1,4 @@
- <h1 align="center"> CurriculoWeb com HTML / CSS </h1>
+ <h1 align="center"> Projeto-Barbearia </h1>
 
 <p align="center">
 Projeto desenvolvivo para praticar os conceitos de HTML, CSS e Responsividade. Desenvolvido em Desktop first.
